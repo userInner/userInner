@@ -8,9 +8,7 @@
 
 
 
-- 💻 &nbsp; Go | Java  | MySQL | 
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | VueJS
+- 💻 &nbsp; Go | MySQL 
 
 <!--
 
